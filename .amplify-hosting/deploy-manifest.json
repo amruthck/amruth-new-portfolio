@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "routes": [
+    {
+      "path": "/api/<*>",
+      "target": {
+        "kind": "Compute",
+        "computeKey": "default"
+      }
+    },
+    {
+      "path": "/<*>",
+      "target": {
+        "kind": "Static"
+      }
+    }
+  ],
+  "computeResources": {
+    "default": {
+      "runtime": "nodejs22.x",
+      "entrypoint": "server.js"
+    }
+  }
+}

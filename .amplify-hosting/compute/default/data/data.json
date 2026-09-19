@@ -1,0 +1,64 @@
+{
+  "visitors": 1,
+  "progress": [
+    {
+      "level": "education",
+      "xp": 100,
+      "at": "2026-09-19T06:51:28.084Z"
+    }
+  ],
+  "messages": [
+    {
+      "name": "Tyson",
+      "email": "amruthck41@gmail.com",
+      "message": "hello",
+      "at": "2026-09-19T06:52:45.613Z"
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI / Full-Stack Project",
+      "tag": "FLAGSHIP",
+      "description": "Replace this card with your strongest project. Explain the problem, what you built and the measurable result.",
+      "tech": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Cloud / DevOps Project",
+      "tag": "CLOUD",
+      "description": "A project demonstrating deployment, containers, CI/CD or infrastructure automation.",
+      "tech": [
+        "AWS",
+        "Docker",
+        "Jenkins"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Generative AI Project",
+      "tag": "AI",
+      "description": "An AI-powered application showing practical use of LLMs, RAG or automation.",
+      "tech": [
+        "Python",
+        "LLM",
+        "RAG"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Problem-Solving Project",
+      "tag": "BUILD",
+      "description": "A project that demonstrates algorithms, backend engineering or product thinking.",
+      "tech": [
+        "Java",
+        "DSA",
+        "REST API"
+      ],
+      "url": ""
+    }
+  ]
+}
